@@ -1,0 +1,91 @@
+body {
+    background-image: url(nature.jpg);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+nav {
+        background: lightsteelblue;
+        margin: 0;
+        padding: 5px;
+        border: solid 2px black;
+        border-radius:50px;
+    }
+main {
+    margin-top: 100px;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-size: ;
+}
+nav ul {
+        margin:auto;
+        padding: 10px;
+        list-style: none;
+    }
+nav li {
+        display: block;
+        margin-right: 10px;
+        padding-top: 10px;
+    }
+nav a {
+        text-transform: uppercase;
+        color: black;
+        text-align: center;
+        padding: 10px 10px;
+    }
+a:hover {
+        background-color: lightsalmon;
+    }
+a:visited {
+    background-color: lime;
+}
+#private {
+    height: 600px;
+    width: 380px;
+    float: right;
+    border: solid 2px black;
+    border-radius: 55px;
+    }
+.info{
+    background-color: lightsteelblue;
+    width: 65%;
+    margin: 0;
+    padding: 5px;
+    border: solid 2px black;
+}
+.education{
+    background-color: lightsteelblue;;
+    width: 65%;
+    margin: 0;
+    padding: 5px;
+    border: solid 2px black;
+}
+.iskustvo{
+    background-color: lightsteelblue;
+    margin: 0;
+    padding: 5px;
+    border: solid 2px black;
+    width: 65%;
+}
+.hobi{
+    background-color: lightsteelblue;
+    margin: 0;
+    padding: 5px;
+    border: solid 2px black;
+    width: 65%;
+}
+.projekti{
+    background-color: lightsteelblue;
+    margin: 0;
+    padding: 5px;
+    border: solid 2px black;
+    width: 65%;
+}
+.kontakt{
+    background-color: lightsteelblue;
+    margin: 0;
+    padding: 5px;
+    border: solid 2px black;
+    width: 100%;
+}
